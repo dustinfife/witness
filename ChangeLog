@@ -1,0 +1,15 @@
+2013-09-20 dustinfife
+
+	* witness.optim,
+		modified the output so that it returns the 
+		parameters in the correct form and returns
+		the fitted value as listed objects
+
+	* witness.est,
+		Fixed a bug with the resetting of the random number
+		generator
+
+2013-11-20 dustinfife
+
+	* witness.genetic,
+		fixed a but
