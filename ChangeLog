@@ -1,3 +1,13 @@
+2014-04-01 dustinfife
+
+	* witness.est,
+		Altered the procedure to allow for simultaneous lineups
+
+2013-11-20 dustinfife
+
+	* witness.genetic,
+		fixed a bug
+
 2013-09-20 dustinfife
 
 	* witness.optim,
@@ -9,7 +19,4 @@
 		Fixed a bug with the resetting of the random number
 		generator
 
-2013-11-20 dustinfife
 
-	* witness.genetic,
-		fixed a but
